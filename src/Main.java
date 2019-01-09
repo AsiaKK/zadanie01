@@ -9,6 +9,7 @@ public class Main {
         System.out.println("i robię zadanie domowe");
 
         System.out.println("09-01-2019");
+        System.out.println(":)");
     }
 
 }
